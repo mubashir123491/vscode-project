@@ -23,4 +23,4 @@ WHERE
 GROUP BY
     job_posted_month
 ORDER BY
-    job_posted_count DESC;
+    job_posted_count ASC;
